@@ -40,13 +40,12 @@ image:before_assembly_labeling.png[640,480]
 |====
 2+| *3D-Printed Parts*
 2+| *Electronic Parts*
-| 1  | ABGH1, Lower part | 2 | Hitec Servo Motor HS81
-| 1  | ABGH2, Lower part | 2 | Sensorimotor board rev. 1.1
-| 1  | ABGH3, Bearing part | 1 | Intel Realsense d435i
-| 1  | ABGH4, Upper part | 1 | USB 3.1 C-Type extension
-| 1  | ABGH5, Upper part | 2 | Robotics dynamixel 4p 240mm cable
-|    |   | 2 | Cable extension with 3 pin molex connectors
-|    |   | 1 | Ball bearing, 42mm x 30mm x 7mm
+| 1  | ABGH1, Lower part | 2 | Motor XL-320
+| 1  | ABGH2, Lower part | 1 | U2D2 Power hub Board
+| 1  | ABGH3, Bearing part | 1 | Camera HBV-1615
+| 1  | ABGH4, Upper part | 1 | Dynamixel cable from motor to motor
+| 1  | ABGH5, Upper part | 2 | Dynamixel cable from motor to board
+| 1  | ABGH6, Upper part | 1 | Ball bearing, 42mm x 30mm x 7mm
 |====
 
 
