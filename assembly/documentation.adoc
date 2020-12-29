@@ -78,16 +78,6 @@ The upper part also contains a single motor that allows the robot to move up and
 
 
 
-=== Step 1. Prepare the cables connecting the sensoriboards and the motors
-*Overview*: We need to connect the sensoriboards and the motors. This is done by creating a cable. The cable needs to be prepared.
-The sensoriboard will be connected to the cable through a molex, and the motor will be connected directly. For the cable to be connected to the molex,
-the cable needs to have crimp connectors.
-[cols="a,a"]
-|====
-2+| *Tools*: Solder, soldering iron, screw driver, pinset, cable stripper, crimping tool
-2+|  image::IMG_0832.JPG[320,240]
-|====
-
 === Step 1. Assemble the base
 *Overview*: We will be assembling the base of the Gretchen head. We will be attaching a motor and a sensoriboard to the base.
 
