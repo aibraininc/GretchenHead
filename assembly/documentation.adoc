@@ -40,7 +40,7 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 |====
 2+| *3D-Printed Parts*
 2+| *Electronic Parts*
-| 1  | ABGH1, Lower part | 2 | Servo XL-320
+| 1  | ABGH1, Lower part | 2 | Motor XL-320
 | 1  | ABGH2, Lower part | 1 | U2D2 
 | 1  | ABGH3, Bearing part | 1 | U2D2 Power Hub Board
 | 1  | ABGH4, Upper part | 1 | USB cable
@@ -48,7 +48,7 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 | 1  | ABGH6, Upper part | 1 | Camera HBV-1615
 |    |    | 1 | Camera cable
 |    |    | 1 | Dynamixel cable (large-large)
-|    |    | 2 | Dynamixel cable (large-small)
+|    |    | 2 | Dynamixel cable (small-large)
 |    |    | 1 | Dynamixel cable (small-small)
 |    |    | 1 | Ball bearing, 42mm x 30mm x 7mm
 |====
@@ -86,7 +86,7 @@ The upper part also contains a single motor that allows the robot to move up and
 
 
 === Step 1. Assemble the base
-*Overview*: We will be assembling the base of the Gretchen head. We will be attaching a motor and a sensoriboard to the base.
+*Overview*: We will be assembling the base of the Gretchen head. We will be attaching a motor and a U2D2 board to the base.
 
 [cols="a,a"]
 |====
@@ -95,7 +95,7 @@ The upper part also contains a single motor that allows the robot to move up and
 |====
 
 ==== Step 4.1 Attach the motor to ABGH1
-*Components* : 1x ABGH1, 1x motor with sensoriboard, 2x M4x16, 2xM4 nut
+*Components* : 1x ABGH1, 1x motor, 2x M2.5x10, 1x Dynamixel cable(small-small), 1x Dynamixel cable(small-large) 
 
 [cols="a,a"]
 |====
@@ -105,7 +105,7 @@ The upper part also contains a single motor that allows the robot to move up and
 
 *Instruction*
 
-4.1.1 Attach the M4x16 nut and bolt loosely on to the servo motor.
+4.1.1 Attach the dynamixel cable(small-small) on right side of the servo motor and dynamixel cable(small-large) on left side.
 
 4.1.2 Insert the motor into the ABGH1 3D printed part
 
