@@ -55,10 +55,8 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 4+| *Bolts and Nuts*
 2+| *M2*
 2+| *M3, M4*
-| 8  | M2 x6, Sensorimotor board mount | 5  | M3 x10, Base assembly & Intel camera assembly
-| 2  | M2 x10, Upper Servo horn mount | 4  | M4 x16, Servo mount
-| 4  | M2 x12, Lower Servo horn mount | 1  | M4 x30, Upper assembly
-| 2  | M2 Nut, Upper Servo horn mount | 5  | M4 Nuts, Servo mount & Upper assembly
+| 1  | M4 x20, Upper assembly | 1  | M4 Nut, Upper assembly
+| 3  | M2.5 x15, Base assembly | 20  | M2.5 x10, Upper and Base assembly, Servo and board mount
 |====
 
 == Assembly
