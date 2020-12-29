@@ -34,7 +34,7 @@ Should have picture
 
 === Gretchen Head Assembly Kit Parts
 
-image:before_assembly_labeling.png[800,600]
+image:before_assembly_labeling.png[640,480,width=50%,scaledwidth=50%]
 
 [cols="1,1,1,1" width="100%"]
 |====
