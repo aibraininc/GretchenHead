@@ -109,7 +109,7 @@ The upper part also contains a single motor that allows the robot to move up and
 
 [cols="a,a"]
 |====
-2+|  image::base_motor_cable_connection.JPG[320,240]
+2+|  image::base_motor_cable_connection.jpg[320,240]
 |====
 
 1.1.2 Attach the motor into the ABGH1 3D printed part
@@ -129,9 +129,9 @@ link:https://youtu.be/Fe6YRPMAatY[click here to watch the video tutorial]
 
 *Instruction*
 
-4.2.1 Align the bearing with the ABGH2
+1.2.1 Align the bearing with the ABGH2
 
-4.2.2 Push the bearing into the ABGH2
+1.2.2 Push the bearing into the ABGH2
 
 link:https://youtu.be/jChvOPqLV4I[click here to watch the video tutorial]
 
