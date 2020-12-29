@@ -100,20 +100,21 @@ The upper part also contains a single motor that allows the robot to move up and
 [cols="a,a"]
 |====
 | *Before* | *After*
-| image::IMG_0864.JPG[320,240] | image::IMG_0867.JPG[320,240]
+| image::base_motor_before.JPG[320,240] | image::base_motor_after.JPG[320,240]
 |====
 
 *Instruction*
 
 4.1.1 Attach the dynamixel cable(small-small) on right side of the servo motor and dynamixel cable(small-large) on left side.
 
-4.1.2 Insert the motor into the ABGH1 3D printed part
+[cols="a,a"]
+|====
+2+|  image::base_motor_cable_connection.JPG[320,240]
+|====
 
-4.1.3 Screw the bolt while holding the nut so that the motor is tightly attached to ABGH1
+4.1.2 Attach the motor into the ABGH1 3D printed part
 
-4.1.4 Insert the remaining bolt and nut into the motor and ABGH1
-
-4.1.5 Tighten the bolt and nut
+4.1.3 Screw the bolt so that the motor is tightly attached to ABGH1
 
 link:https://youtu.be/Fe6YRPMAatY[click here to watch the video tutorial]
 
