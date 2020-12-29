@@ -34,19 +34,18 @@ Should have picture
 
 === Gretchen Head Assembly Kit Parts
 
-image:before_assembly_labeling.png[640,480]
+image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 
 [cols="1,1,1,1" width="100%"]
 |====
 2+| *3D-Printed Parts*
 2+| *Electronic Parts*
-| 1  | ABGH1, Lower part | 2 | Hitec Servo Motor HS81
-| 1  | ABGH2, Lower part | 2 | Sensorimotor board rev. 1.1
-| 1  | ABGH3, Bearing part | 1 | Intel Realsense d435i
-| 1  | ABGH4, Upper part | 1 | USB 3.1 C-Type extension
-| 1  | ABGH5, Upper part | 2 | Robotics dynamixel 4p 240mm cable
-|    |   | 2 | Cable extension with 3 pin molex connectors
-|    |   | 1 | Ball bearing, 42mm x 30mm x 7mm
+| 1  | ABGH1, Lower part | 2 | Motor XL-320
+| 1  | ABGH2, Lower part | 1 | U2D2 Power hub Board
+| 1  | ABGH3, Bearing part | 1 | Camera HBV-1615
+| 1  | ABGH4, Upper part | 1 | Dynamixel cable from motor to motor
+| 1  | ABGH5, Upper part | 2 | Dynamixel cable from motor to board
+| 1  | ABGH6, Upper part | 1 | Ball bearing, 42mm x 30mm x 7mm
 |====
 
 
@@ -56,10 +55,8 @@ image:before_assembly_labeling.png[640,480]
 4+| *Bolts and Nuts*
 2+| *M2*
 2+| *M3, M4*
-| 8  | M2 x6, Sensorimotor board mount | 5  | M3 x10, Base assembly & Intel camera assembly
-| 2  | M2 x10, Upper Servo horn mount | 4  | M4 x16, Servo mount
-| 4  | M2 x12, Lower Servo horn mount | 1  | M4 x30, Upper assembly
-| 2  | M2 Nut, Upper Servo horn mount | 5  | M4 Nuts, Servo mount & Upper assembly
+| 1  | M4 x20, Upper assembly | 1  | M4 Nut, Upper assembly
+| 3  | M2.5 x15, Base assembly | 20  | M2.5 x10, Upper and Base assembly, Servo and board mount
 |====
 
 == Assembly
@@ -69,223 +66,19 @@ Although there are many possible ways to assemble,
 we recommend the order given in the manual.
 
 === Step 0. Overview
-The assembly of the Gretchen head is divided into 3 main parts. Frist, we will be preparing the motors. We have to attach a board called sensoriboard to the motor.
-Sensoriboads allows the computer to control the motor and get feed back from the motor. Second, we need to assemble the base of the grethen head.
-The base of the gretchen head contains a single motor allowing the robot to move left and right. Third, we assemble the upper part of the gretchen head.
+The assembly of the Gretchen head is divided into 2 main parts. First, we need to assemble the base of the grethen head.
+The base of the gretchen head contains a single motor allowing the robot to move left and right. Second, we assemble the upper part of the gretchen head.
 The upper part also contains a single motor that allows the robot to move up and down.
 
-[cols="a,a,a"]
-|====
-| *Sensoriboard* | *Base* | *Upper part*
-| image::IMG_0859.JPG[320,240] | image::IMG_4352.jpg[320,240] | image::IMG_4351.jpg[320,240]
-|====
-
-
-
-=== Step 1. Prepare the cables connecting the sensoriboards and the motors
-*Overview*: We need to connect the sensoriboards and the motors. This is done by creating a cable. The cable needs to be prepared.
-The sensoriboard will be connected to the cable through a molex, and the motor will be connected directly. For the cable to be connected to the molex,
-the cable needs to have crimp connectors.
 [cols="a,a"]
 |====
-2+| *Tools*: Solder, soldering iron, screw driver, pinset, cable stripper, crimping tool
-2+|  image::IMG_0832.JPG[320,240]
-|====
-
-==== Step 1.1 Prepare the cables to connect with the molex
-*Components* : 5x cable, 5x crimp connector, 2x molex
-
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image::IMG_0833.JPG[320,240] | image::IMG_0835.JPG[320,240]
-|====
-
-*Instruction*
-
-1.1.1 Insert the cable into the crimp connector
-
-1.1.2 Squeeze the crimp connector to hold it in place
-
-1.1.3 Use the crimping tool to firmly attach the crimp connector to the cable
-
-link:https://youtu.be/fZH4YX5PPgI[click here to watch the video tutorial]
-link:https://youtu.be/F7rli4uYHDY[click here to watch the video tutorial]
-
-
-
-==== Step 1.2 Insert the crimped cables to the molex
-*Components* : 5x crimped cable, 2x molex
-
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image::IMG_0835.JPG[320,240] | image::IMG_0837.JPG[320,240]
-|====
-
-*Instruction*
-
-1.2.1 Insert the crimped cable in to the molex and try pulling it to make sure it is firmly connected
-
-link:https://youtu.be/Y6q7BYZN-uk[click here to watch the video tutorial]
-
-=== Step 2. Attach the cable with molex to the motors.
-*Overview*: We need to disassemble the motor and attach the cable with molex directly.
-[cols="a,a"]
-|====
-2+| *Tools*: Solder, soldering iron, screw driver
-2+|  image::IMG_0832.JPG[320,240]
-|====
-
-todo update picture
-
-==== Step 2.1 Disassemble the motor
-*Components* : 2x motor
-
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image::IMG_0838.JPG[320,240] | image::IMG_0839.JPG[320,240]
-|====
-
-*Instruction*
-
-2.1.1 Unscrew the motor
-
-2.1.2 Gently pull the cables in the motor and cut the cables
-
-2.1.3 Use the cable stripper to remove the wire cover
-
-link:https://youtu.be/HrGcNU0-SBw[click here to watch the video tutorial]
-
-
-==== Step 2.2 Insert heat shrinking sleeves to the cables with molex
-*Components* : 2x cable with molex, heat shrinking sleeves
-
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image::IMG_0840.JPG[320,240] | image::IMG_0841.JPG[320,240]
-|====
-
-*Instruction*
-
-2.2.1 Cut the heat shrinking sleeves in to small pieces, these will be covering the bear wire connecting the motor and the cable
-
-2.2.2 Insert the heat shrinking sleeves into the cable
-
-link:https://youtu.be/0eb3IUfU3mE[click here to watch the video tutorial]
-
-
-==== Step 2.3 Connect the cable with molex to the motor
-*Components* : 2x cable with molex, disassembled motors
-
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image::IMG_0842.JPG[320,240] | image::IMG_0848.JPG[320,240]
-|====
-
-*Instruction*
-
-2.3.1 Apply solder for every wire on the cable with molex and wire on the motor
-
-2.3.2 Solder the cable with molex to the disassembled motor
-
-todo add picture
-
-link:https://youtu.be/i2RDhTVlqjI[click here to watch the video tutorial]
-
-
-
-==== Step 2.4 Apply heat to the heat shrinking sleeves
-*Components* : 2x motor connected to cable with molex
-
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image::IMG_0848.JPG[320,240] | image::IMG_0851.JPG[320,240]
-|====
-
-*Instruction*
-
-2.4.1 Move the heat shrinking sleeves to the area with bear wires
-
-2.4.2 Apply heat to the heat shrinking sleeves with the soldering iron
-
-link:https://youtu.be/pnu2L4HjjcY[click here to watch the video tutorial]
-
-==== Step 2.5 Assemble the motor
-*Components* : 2x motor connected to cable with molex
-
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image::IMG_0855.JPG[320,240] | image::IMG_0856.JPG[320,240]
-|====
-
-*Instruction*
-
-2.5.1 Insert the cables back into the motor
-
-2.5.2 Assemble the motor by screwing the screws
-
-link:https://youtu.be/21mKfvWZitU[click here to watch the video tutorial]
-
-
-=== Step 3. Prepare the sensoriboards.
-*Overview*: We need to prepare the sensoriboards in order to connect it to the motor. The board is incomplete.
-We need to solder components to board for it to work. We also solder the molex to the board so that it can connect to the motors through the molex.
-
-[cols="a,a"]
-|====
-2+| *Tools*: Solder, soldering iron, pinset
-2+|  image::IMG_0832.JPG[320,240]
-|====
-
-todo update picture
-
-==== Step 3.1 Solder parts to the sensoriboard
-*Components* : 2x 3pin molex, 2x 4pin molex, capacitor, thermistor, pinheader
-
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image::IMG_0858.JPG[320,240] | image::IMG_0859.JPG[320,240]
-|====
-
-*Instruction*
-
-3.1.1 Insert the molex to the board
-
-3.1.2 Solder the molex to the board
-
-3.1.3 Insert the capacitor and the thermistor and bend the wire to hold it in places
-
-    * The capacitor needs to be inserted correctly based on +/-
-
-    * The long wire of the capacitor is the +, and the short wire of the capacitor is -
-
-    * The +/- is indicated on the sensorboard
-
-[cols="a,a"]
-|====
-2+| Back of sensor board
-2+|  image::IMG_4349.jpg[320,240]
+| *Base* | *Upper part*
+| image::IMG_4352.jpg[320,240] | image::IMG_4351.jpg[320,240]
 |====
 
 
 
-3.1.4 Solder the capacitor and the thermistor,
-
-3.1.5 Insert and solder the pinheader
-
-todo add picture
-
-link:https://youtu.be/WdSbCGbjKYw[click here to watch the video tutorial]
-
-
-=== Step 4. Assemble the base
+=== Step 1. Assemble the base
 *Overview*: We will be assembling the base of the Gretchen head. We will be attaching a motor and a sensoriboard to the base.
 
 [cols="a,a"]
