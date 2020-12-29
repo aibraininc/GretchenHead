@@ -61,9 +61,9 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 2+| *M2.5, M4*
 2+| *Plugs*
 | 1  | M4 x20, Upper assembly | 4  | plug for U2D2 mount
-| 1  | M4 Nut, Upper assembly
-| 3  | M2.5 x15, Base assembly
-| 20 | M2.5 x10, Upper and Base assembly, Servo and Board mount
+| 1  | M4 Nut, Upper assembly | |
+| 3  | M2.5 x15, Base assembly | |
+| 20 | M2.5 x10, Upper and Base assembly, Servo and Board mount | |
 |====
 
 == Assembly
