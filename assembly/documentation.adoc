@@ -40,23 +40,30 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 |====
 2+| *3D-Printed Parts*
 2+| *Electronic Parts*
-| 1  | ABGH1, Lower part | 2 | Motor XL-320
-| 1  | ABGH2, Lower part | 1 | U2D2 Power hub Board
-| 1  | ABGH3, Bearing part | 1 | Camera HBV-1615
-| 1  | ABGH4, Upper part | 1 | Dynamixel cable from motor to motor
-| 1  | ABGH5, Upper part | 2 | Dynamixel cable from motor to board
-| 1  | ABGH6, Upper part | 1 | Ball bearing, 42mm x 30mm x 7mm
+| 1  | ABGH1, Lower part | 2 | Servo XL-320
+| 1  | ABGH2, Lower part | 1 | U2D2 
+| 1  | ABGH3, Bearing part | 1 | U2D2 Power Hub Board
+| 1  | ABGH4, Upper part | 1 | USB cable
+| 1  | ABGH5, Upper part | 1 | Power cable
+| 1  | ABGH6, Upper part | 1 | Camera HBV-1615
+|    |    | 1 | Camera cable
+|    |    | 1 | Dynamixel cable (large-large)
+|    |    | 2 | Dynamixel cable (large-small)
+|    |    | 1 | Dynamixel cable (small-small)
+|    |    | 1 | Ball bearing, 42mm x 30mm x 7mm
 |====
 
 
 
 [cols="1,1,1,1"]
 |====
-4+| *Bolts and Nuts*
-2+| *M2*
-2+| *M3, M4*
-| 1  | M4 x20, Upper assembly | 1  | M4 Nut, Upper assembly
-| 3  | M2.5 x15, Base assembly | 20  | M2.5 x10, Upper and Base assembly, Servo and board mount
+4+| *Bolts and Nuts, Plugs*
+2+| *M2.5, M4*
+2+| *Plugs*
+| 1  | M4 x20, Upper assembly | 4  | plug for U2D2 mount
+| 1  | M4 Nut, Upper assembly
+| 3  | M2.5 x15, Base assembly
+| 20 | M2.5 x10, Upper and Base assembly, Servo and Board mount
 |====
 
 == Assembly
