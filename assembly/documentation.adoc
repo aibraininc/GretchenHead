@@ -263,7 +263,7 @@ link:https://www.youtube.com/watch?v=GDsHdo497Fw&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 [cols="a,a"]
 |====
 | *Before* | *After*
-| image:mount_camera_before.jpg[320,240]| image:mount_camera_after.jpg[320,240]
+| image:mount_camera_before.jpeg[320,240]| image:mount_camera_after.jpeg[320,240]
 |====
 
 *Instructions*
@@ -274,7 +274,7 @@ link:https://www.youtube.com/watch?v=GDsHdo497Fw&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 [cols="a,a"]
 |====
-2+|  image::screw_camera.jpg[320,240]
+2+|  image::screw_camera.jpeg[320,240]
 |====
 
 === Step 7. Attach ABGH5 to ABGH4
