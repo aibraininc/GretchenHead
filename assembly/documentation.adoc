@@ -309,7 +309,7 @@ link:https://www.youtube.com/watch?v=GDsHdo497Fw&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 | | make sure direction
 |====
 
-5.2 Screw M2.5x8 to attach the motor and ABGH5.
+5.2 Screw M2.5x8 to attach the motor to ABGH4.
 
 [cols="a,a"]
 |====
@@ -319,11 +319,11 @@ link:https://www.youtube.com/watch?v=GDsHdo497Fw&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=16[click here to watch the video tutorial]
 
-5.3 Use M4x20 and M4 nut to combine ABGH4 to ABGH5.
+5.3 Use M4x20 and M4 nut to combine ABGH5 to ABGH4.
 
 [cols="a,a"]
 |====
-2+|  image::combine_abgh4_abgh5.jpg[320,240]
+2+|  image::combine_abgh4_abgh5.jpeg[320,240]
 |====
 
 
