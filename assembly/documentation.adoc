@@ -187,8 +187,8 @@ Overview: We assemble the upper part of the Gretchen Head and x-horn of the serv
 
 [cols="a,a"]
 |====
-2+| *After*
-2+|  image::make_sure_direction.jpg[320,240] | make sure the direction
+3+| *After*
+3+|  image::make_sure_direction.jpg[320,240] | make sure the direction
 |====
 
 
