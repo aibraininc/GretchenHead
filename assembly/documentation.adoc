@@ -187,10 +187,10 @@ Overview: We assemble the upper part of the Gretchen Head and x-horn of the serv
 |====
 
 
-2.2 Attach a x-horn to ABGH3 with two bolts.
+2.2 Attach ABGH3 on the motor with unscrewed bolt.
 [cols="a,a"]
 |====
-| image::IMG_999.jpg[160,120] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
+| image::attach_abgh3.jpg[320,240]
 |====
 
 5.2 Combine ABGH3 with ABGH4.
