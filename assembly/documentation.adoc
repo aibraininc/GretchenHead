@@ -233,7 +233,12 @@ link:https://www.youtube.com/watch?v=EsaZwQV3XkA&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 2+|  image::connection_beween_motors.jpg[320,240]
 |====
 
-6.2 Screw two M4 bolts for assembling the motor and ABGH4.
+6.2 Screw two M2.5x10 bolts for assembling the motor on ABGH4 as below an image.
+
+[cols="a,a"]
+|====
+2+|  image::screw_upper_motor.jpg[320,240]
+|====
 
 link:https://www.youtube.com/watch?v=GDsHdo497Fw&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=15[click here to watch the video tutorial]
 
