@@ -95,7 +95,7 @@ The upper part also contains a single motor that allows the robot to move up and
 |====
 
 ==== Step 1.1 Attach the motor to ABGH1
-*Components* : 1x ABGH1, 1x motor, 2x M2.5x10, 1x Dynamixel cable(small-small), 1x Dynamixel cable(small-large) 
+*Components* : 1x ABGH1, 1x motor, 2x M2.5x10, 1x Dynamixel cable(small-large), 1x Dynamixel cable(small-small) 
 
 [cols="a,a"]
 |====
@@ -136,19 +136,19 @@ link:https://youtu.be/Fe6YRPMAatY[click here to watch the video tutorial]
 link:https://youtu.be/jChvOPqLV4I[click here to watch the video tutorial]
 
 ==== Step 4.3 Combine ABGH1 with ABGH2
-*Components* : 1x ABGH1, 1xABGH2, 3xM3x10
+*Components* : 1x ABGH1, 1xABGH2, 3x M2.5x15
 
 [cols="a,a"]
 |====
 | *Before* | *After*
-| image::IMG_0872.JPG[320,240] | image::IMG_0874.JPG[320,240]
+| image::combine_abgh1_abgh2_before.jpg[320,240] | image::combine_abgh1_abgh2_after.jpg[320,240]
 |====
 
 *Instruction*
 
 4.3.1 Align ABGH1 with the ABGH2
 
-4.3.2 Insert M3x10 bolt and screw it on tight.
+4.3.2 Insert M2.5x15 bolt and screw it on tight.
 
     * Need to apply pressure when screwing
 
