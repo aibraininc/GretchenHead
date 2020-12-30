@@ -229,14 +229,14 @@ link:https://www.youtube.com/watch?v=EsaZwQV3XkA&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 *Instructions*
 
-3.1 Plug cable between two motors like as below an image.
+3.1 Plug cable between two motors like as below.
 
 [cols="a,a"]
 |====
 2+|  image::connection_beween_motors.jpg[320,240]
 |====
 
-3.2 Screw two M2.5x10 bolts for assembling the motor on ABGH4 as below an image.
+3.2 Screw two M2.5x10 bolts for assembling the motor on ABGH4 like as below.
 
 [cols="a,a"]
 |====
