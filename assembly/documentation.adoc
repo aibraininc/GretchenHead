@@ -182,26 +182,24 @@ Overview: We assemble the upper part of the Gretchen Head and x-horn of the serv
 [cols="a,a"]
 |====
 | *Before* | *After*
-| image:unscrew_bolt_motor.jpg[320,240]| image:make_sure_direction.jpg[320,240]
+| image:unscrew_bolt_motor.jpg[320,240]| image:make_sure_direction.jpg[480,360]
 | | make sure direction
 |====
 
 
-2.2 Attach a x-horn to ABGH3 with two bolts.
+2.2 Attach ABGH3 on the motor with unscrewed bolt.
+
 [cols="a,a"]
 |====
-| image::IMG_999.jpg[160,120] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
+2+|  image::attach_abgh3.jpg[320,240]
 |====
 
-5.2 Combine ABGH3 with ABGH4.
+2.3 Combine ABGH4 on ABGH3 with 4x M2.5x10 bolts.
 
-5.3 Attach the upper part to the servo on base.
-
-    * The servo should be movable in ~90 degress in both directions.
-
-    * Try moving the upper part attached to the motor left and right to find the middle
-
-    * Unscrew and screw to adjust the upper part to the middle
+[cols="a,a"]
+|====
+2+|  image::assemble_upper_part_after.jpg[320,240]
+|====
 
 
 link:https://www.youtube.com/watch?v=EsaZwQV3XkA&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=14[click here to watch the video tutorial]
