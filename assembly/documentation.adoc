@@ -328,6 +328,42 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 
 
+=== Step 5. Combine cover for camera
+
+*Overview* : We combin cover to ABGH4 for camera.
+
+[cols="a,a"]
+|====
+2+| *Tools*: Allen keys, screw driver
+2+|  image::IMG_0883.JPG[320,240]
+|====
+
+
+*Components* : assembled base and upper, 4x M2.5x10
+
+[cols="a,a"]
+|====
+| *Before* | *After*
+| image:combine_cover_before.jpg[320,240]| image:combine_cover_after.jpg[320,240]
+|====
+
+*Instructions*
+
+5.1 Screw two bolt to the upper side.
+
+[cols="a,a"]
+|====
+2+|  image::screw_upper_side.jpg[480,360]
+|====
+
+5.2 Screw two bolt to the lower side.
+
+[cols="a,a"]
+|====
+2+|  image::screw_lower_side.jpg[480,360]
+|====
+
+
 === Step 8. Connect each motor to sensoriboard
 
 *Overview* : There are two motors on assembled Gretchen Head. We connect each motor to the board and attach the boards to the Gretchen Head with bolts.
