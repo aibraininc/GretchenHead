@@ -182,7 +182,7 @@ Overview: We assemble the upper part of the Gretchen Head and x-horn of the serv
 [cols="a,a"]
 |====
 | *Before* | *After*
-| image:unscrew_bolt_motor.jpg[320,240]| image:make_sure_direction.jpg[320,240]
+| image:unscrew_bolt_motor.jpg[320,240]| image:make_sure_direction.jpg[480,360]
 | | make sure direction
 |====
 
