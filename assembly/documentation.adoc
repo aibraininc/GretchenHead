@@ -157,6 +157,8 @@ link:https://youtu.be/rW_i_nmOKkM[click here to watch the video tutorial]
 Attach the base part to the servo. The servo should be movable in ~90° in both
 directions.
 
+
+
 === Step 2. Assemble and attach the upper part of the Gretchen Head to base
 
 Overview: We assemble the upper part of the Gretchen Head and x-horn of the servo.
@@ -205,6 +207,7 @@ Overview: We assemble the upper part of the Gretchen Head and x-horn of the serv
 link:https://www.youtube.com/watch?v=EsaZwQV3XkA&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=14[click here to watch the video tutorial]
 
 
+
 === Step 3. Attach the motor to the upper part
 
 *Overview* : We attach a motor to the upper part of the Gretchen head.
@@ -226,14 +229,14 @@ link:https://www.youtube.com/watch?v=EsaZwQV3XkA&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 *Instructions*
 
-6.1 Plug cable between two motors like as below an image.
+3.1 Plug cable between two motors like as below an image.
 
 [cols="a,a"]
 |====
 2+|  image::connection_beween_motors.jpg[320,240]
 |====
 
-6.2 Screw two M2.5x10 bolts for assembling the motor on ABGH4 as below an image.
+3.2 Screw two M2.5x10 bolts for assembling the motor on ABGH4 as below an image.
 
 [cols="a,a"]
 |====
@@ -241,6 +244,38 @@ link:https://www.youtube.com/watch?v=EsaZwQV3XkA&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 |====
 
 link:https://www.youtube.com/watch?v=GDsHdo497Fw&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=15[click here to watch the video tutorial]
+
+
+
+=== Step 4. Mount camera on ABGH5
+
+*Overview* : We attach camera to ABGH5.
+
+[cols="a,a"]
+|====
+2+| *Tools*: Allen keys, screw driver
+2+|  image::IMG_0883.JPG[320,240]
+|====
+
+
+*Components* : ABGH5 (3d print part), Camera module HBV-1615, Camera cable, 4x M2.5x10 bolts
+
+[cols="a,a"]
+|====
+| *Before* | *After*
+| image:mount_camera_before.jpg[320,240]| image:mount_camera_after.jpg[320,240]
+|====
+
+*Instructions*
+
+4.1 Plug cable to Camera module HBV-1615.
+
+4.2 Screw four M2.5x10 bolts to mount the camera module.
+
+[cols="a,a"]
+|====
+2+|  image::screw_camera.jpg[320,240]
+|====
 
 === Step 7. Attach ABGH5 to ABGH4
 
