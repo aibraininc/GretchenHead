@@ -91,7 +91,7 @@ The upper part also contains a single motor that allows the robot to move up and
 [cols="a,a"]
 |====
 2+| *Tools*:  pinset, allen key
-2+|  image::IMG_0868.JPG[320,240]
+2+|  image::IMG_0868.JPG[480,360]
 |====
 
 ==== Step 1.1 Attach the motor to ABGH1
@@ -109,7 +109,7 @@ The upper part also contains a single motor that allows the robot to move up and
 
 [cols="a,a"]
 |====
-2+|  image::base_motor_cable_connection.jpg[320,240]
+2+|  image::base_motor_cable_connection.jpg[480,360]
 |====
 
 1.1.2 Attach the motor into the ABGH1 3D printed part
