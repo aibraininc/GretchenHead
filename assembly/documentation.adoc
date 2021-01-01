@@ -427,14 +427,14 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 2+|  image::attach_board_screw.jpg[480,360]
 |====
 
-7.2 Connect cable from the base to the U2D2 board.
+7.2 Connect cable from the motor of base to the U2D2 board.
 
 [cols="a,a"]
 |====
 2+|  image::attach_board_connect_cable1.jpg[480,360]
 |====
 
-7.3 Connect a dynamixel cable(small-large) to the U2D2 board.
+7.3 Connect a dynamixel cable(small-large). small => motor of upper , large => U2D2 board
 
 [cols="a,a"]
 |====
