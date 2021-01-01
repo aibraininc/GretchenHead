@@ -11,7 +11,7 @@ Please share your ideas, upgrades, schematics, source-code and tricks._
 
 [cols="a,a"]
 |====
-| image::before_assembly.png[480,360][Gretchen head] | image::after_assembly.png[480,360][Gretchen head]
+| image::before_assembly.png[800,600][Gretchen head] | image::after_assembly.png[800,600][Gretchen head]
 |====
 
 
