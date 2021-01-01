@@ -185,7 +185,7 @@ Overview: We assemble the upper part of the Gretchen Head and x-horn of the serv
 |====
 | *Before* | *After*
 | image:unscrew_bolt_motor.jpg[320,240]| image:make_sure_direction.jpg[320,250]
-| | make sure direction
+| | make sure direction is up.
 |====
 
 
@@ -306,7 +306,7 @@ link:https://www.youtube.com/watch?v=GDsHdo497Fw&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 |====
 | *Before* | *After*
 | image:unscrew_upper_motor.jpg[320,240]| image:make_sure_direction_upper.jpg[320,200]
-| | make sure direction
+| | make sure direction is right.
 |====
 
 5.2 Screw M2.5x8 to attach the motor to ABGH4.
@@ -362,6 +362,33 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 |====
 2+|  image::screw_lower_side.jpg[480,360]
 |====
+
+
+
+=== Step 6. assembling U2D2 board
+
+*Overview* : We are going to assemble U2D2 board.
+
+[cols="a,a"]
+|====
+2+| *Tools*: Allen keys
+2+|  image::IMG_0937.JPG[320,240]
+|====
+
+
+*Components* : U2D2, U2D2 Power Hub Board
+
+[cols="a,a"]
+|====
+| *Before* | *After*
+| image:board_before.jpg[320,240]| image:board_after.jpeg[320,240]
+|====
+
+
+*Instructions*
+
+6.1 Attach the boards to the assembled Gretchen Head using bolts.
+
 
 
 === Step 8. Connect each motor to sensoriboard
