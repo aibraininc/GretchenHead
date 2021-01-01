@@ -224,7 +224,7 @@ link:https://www.youtube.com/watch?v=EsaZwQV3XkA&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 [cols="a,a"]
 |====
 | *Before* | *After*
-| image:attach_motor_upper_before.jpg[320,240]| image:attach_motor_upper_after.jpg[320,240]
+| image:attach_motor_upper_before.jpg[320,240]| image:attach_motor_upper_after.jpg[345,260]
 |====
 
 *Instructions*
