@@ -376,7 +376,7 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 |====
 
 
-*Components* : U2D2, U2D2 Power Hub Board
+*Components* : U2D2, U2D2 Power Hub Board, 4x sockets
 
 [cols="a,a"]
 |====
@@ -387,13 +387,20 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 *Instructions*
 
-6.1 Attach the boards to the assembled Gretchen Head using bolts.
+6.1 Push four sockets to the U2D2 Power Hub Board like as below.
+
+|====
+| *Front* | *Side*
+| image:board_front.jpeg[320,240]| image:board_side.jpeg[320,240]
+|====
+
+6.2 Attach U2D2 to the sockets of the U2D2 Power Hub Board.
 
 
 
-=== Step 8. Connect each motor to sensoriboard
+=== Step 7. Attaching U2D2 board to the base of Grechen head.
 
-*Overview* : There are two motors on assembled Gretchen Head. We connect each motor to the board and attach the boards to the Gretchen Head with bolts.
+*Overview* : We are going to attach U2D2 board to the base of Grechen head.
 
 [cols="a,a"]
 |====
@@ -402,34 +409,38 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 |====
 
 
-*Components* : assembled Gretchen Head, 2x boards, 2x motors, 4x M2 bolts
+*Components* : Grechen Head, U2D2 board, 1x dynamixel cable(small-large), 4x M2.5x10
 
 [cols="a,a"]
 |====
 | *Before* | *After*
-| image:IMG_0938.JPG[320,240]| image:IMG_0942.JPG[320,240]
+| image:attach_board_before.jpg[320,240]| image:attach_board_after.jpg[320,240]
 |====
 
 
 *Instructions*
 
-8.1 Attach the boards to the assembled Gretchen Head using bolts.
-
-8.2 The board has four headers to connect with the cable. In the figure below, please plug the two cables of the motor into the (a) and (b) header on the board.
+7.1 Screw four M2.5x10 to attach the board to base of the Grechen head like as below.
 
 [cols="a,a"]
 |====
-| image:IMG_0859.png[320,240]| image:IMG_0856.png[320,240]
+2+|  image::attach_board_screw.jpg[480,360]
 |====
+
+7.2 Connect cable from the base to the U2D2 board.
 
 [cols="a,a"]
 |====
-| *Base* | *Upper part*
-| image:IMG_0946.JPG[320,240]| image:IMG_0945.JPG[320,240]
+2+|  image::attach_board_connect_cable1.jpg[480,360]
 |====
 
+7.3 Connect a dynamixel cable(small-large) to the U2D2 board.
 
-link:https://www.youtube.com/watch?v=xoMWaxC9IeA&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=18[click here to watch the video tutorial]
+[cols="a,a"]
+|====
+2+|  image::attach_board_connect_cable2.jpg[480,360]
+|====
+
 
 
 === Step 9. Connect cables between boards and motors
