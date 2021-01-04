@@ -243,7 +243,7 @@ link:https://youtu.be/qm7Bxvpi1YQ[click here to watch the video tutorial]
 2+|  image::screw_upper_motor.jpg[480,360]
 |====
 
-link:https://www.youtube.com/watch?v=GDsHdo497Fw&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=15[click here to watch the video tutorial]
+link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 
 
