@@ -278,6 +278,9 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 2+|  image::screw_camera.jpeg[480,360]
 |====
 
+link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
+
+
 ==== Step 4.2 Camera focus setting
 
 === Step 5. Finish to assemble the upper part
