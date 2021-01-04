@@ -116,7 +116,7 @@ The upper part also contains a single motor that allows the robot to move up and
 
 1.1.3 Screw the bolt so that the motor is tightly attached to ABGH1
 
-link:https://youtu.be/Fe6YRPMAatY[click here to watch the video tutorial]
+link:https://youtu.be/_PgTZWgD7m0[click here to watch the video tutorial]
 
 ==== Step 1.2 Insert the bearing into ABGH2
 *Components* : 1x ABGH2, 1xbearing
