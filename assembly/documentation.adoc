@@ -80,7 +80,7 @@ The upper part also contains a single motor that allows the robot to move up and
 [cols="a,a"]
 |====
 | *Base* | *Upper part*
-| image::IMG_4352.jpg[320,240] | image::IMG_4351.jpg[320,240]
+| image::grechen_head_base.jpg[320,240] | image::grechen_head_upper.jpg[320,240]
 |====
 
 
