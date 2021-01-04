@@ -152,10 +152,10 @@ link:https://youtu.be/Se7pdNZk4KE[click here to watch the video tutorial]
 
     * Need to apply pressure when screwing
 
-link:https://youtu.be/j0PZXP6PQcQ[click here to watch the video tutorial]
-
 Attach the base part to the servo. The servo should be movable in ~90° in both
 directions.
+
+link:https://youtu.be/j0PZXP6PQcQ[click here to watch the video tutorial]
 
 
 
