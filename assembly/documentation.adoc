@@ -328,7 +328,7 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 
 
-=== Step 5. Combine cover for camera
+=== Step 6. Combine cover for camera
 
 *Overview* : We combin cover to ABGH4 for camera.
 
@@ -349,14 +349,14 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 *Instructions*
 
-5.1 Screw two bolt to the upper side.
+6.1 Screw two bolt to the upper side.
 
 [cols="a,a"]
 |====
 2+|  image::screw_upper_side.jpg[480,360]
 |====
 
-5.2 Screw two bolt to the lower side.
+6.2 Screw two bolt to the lower side.
 
 [cols="a,a"]
 |====
@@ -365,7 +365,7 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 
 
-=== Step 6. assembling U2D2 board
+=== Step 7. assembling U2D2 board
 
 *Overview* : We are going to assemble U2D2 board.
 
@@ -387,18 +387,18 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 *Instructions*
 
-6.1 Push four sockets to the U2D2 Power Hub Board like as below.
+7.1 Push four sockets to the U2D2 Power Hub Board like as below.
 
 |====
 | *Front* | *Side*
 | image:board_front.jpeg[320,240]| image:board_side.jpeg[320,240]
 |====
 
-6.2 Attach U2D2 to the sockets of the U2D2 Power Hub Board.
+7.2 Attach U2D2 to the sockets of the U2D2 Power Hub Board.
 
 
 
-=== Step 7. Attaching U2D2 board to the base of Grechen head.
+=== Step 8. Attaching U2D2 board to the base of Grechen head.
 
 *Overview* : We are going to attach U2D2 board to the base of Grechen head.
 
@@ -420,21 +420,21 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 
 *Instructions*
 
-7.1 Screw four M2.5x10 to attach the board to base of the Grechen head like as below.
+8.1 Screw four M2.5x10 to attach the board to base of the Grechen head like as below.
 
 [cols="a,a"]
 |====
 2+|  image::attach_board_screw.jpg[480,360]
 |====
 
-7.2 Connect cable from the motor of base to the U2D2 board.
+8.2 Connect cable from the motor of base to the U2D2 board.
 
 [cols="a,a"]
 |====
 2+|  image::attach_board_connect_cable1.jpg[480,360]
 |====
 
-7.3 Connect a dynamixel cable(small-large). small => motor of upper , large => U2D2 board
+8.3 Connect a dynamixel cable(small-large). small => motor of upper , large => U2D2 board
 
 [cols="a,a"]
 |====
