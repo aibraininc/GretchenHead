@@ -329,8 +329,7 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 2+|  image::combine_abgh4_abgh5.jpeg[480,360]
 |====
 
-link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=16[click here to watch the video tutorial]
-
+link:https://youtu.be/jjimqfvF-sA[click here to watch the video tutorial]
 
 
 ==== Step 5.2 Combine cover for camera
@@ -367,6 +366,8 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 |====
 2+|  image::screw_lower_side.jpg[480,360]
 |====
+
+link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 
 
 
@@ -437,4 +438,4 @@ link:https://www.youtube.com/watch?v=DEc8nPt5TLM&list=PLYVBkbWq7-9GDQf_p39D-3R0l
 2+|  image::attach_board_connect_cable2.jpg[480,360]
 |====
 
-link:https://www.youtube.com/watch?v=yl0QS3kNg6o&list=PLYVBkbWq7-9GDQf_p39D-3R0lgW0Ku453&index=19[click here to watch the video tutorial]
+link:https://youtu.be/QlEY7Alr9UI[click here to watch the video tutorial]
