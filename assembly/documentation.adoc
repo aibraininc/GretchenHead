@@ -404,7 +404,7 @@ link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 
 
 ==== Step 6.2. Attaching U2D2 board to the base of Grechen head.
-*Components* : Grechen Head, U2D2 board, 1x dynamixel cable(small-large), 4x M2.5x10
+*Components* : Grechen Head, U2D2 board, 1x dynamixel cable(large-large), 1x dynamixel cable(small-large), 4x M2.5x10, USB cable, Power cable
 
 [cols="a,a"]
 |====
