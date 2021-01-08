@@ -422,18 +422,39 @@ link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 2+|  image::attach_board_screw.jpg[480,360]
 |====
 
-6.2.2 Connect cable from the motor of base to the U2D2 board.
+6.2.2 Connect a Dynamixel cable(large-large) from U2D2 to U2D2 Power Hub Board.
 
 [cols="a,a"]
 |====
-2+|  image::attach_board_connect_cable1.jpg[480,360]
+2+|  image::connect_cable_u2d2.jpg[480,360]
 |====
 
-6.2.3 Connect a dynamixel cable(small-large). small => motor of upper , large => U2D2 board
+6.2.3 Connect a Dynamixel cable(small-large) from upper motor to U2D2 Power Hub Board.
 
 [cols="a,a"]
 |====
-2+|  image::attach_board_connect_cable2.jpg[480,360]
+2+|  image::connect_cable_upper.jpg[480,360]
+|====
+
+6.2.3 Connect a Dynamixel cable from the motor of base to U2D2 Power Hub Board.
+
+[cols="a,a"]
+|====
+2+|  image::connect_cable_base.jpg[480,360]
+|====
+
+6.2.4 Plug a USB cable to U2D2.
+
+[cols="a,a"]
+|====
+2+|  image::connect_cable_usb.jpg[480,360]
+|====
+
+6.2.5 Plug a Power cable to U2D2 Power Hub Board.
+
+[cols="a,a"]
+|====
+2+|  image::connect_cable_power.jpeg[480,360]
 |====
 
 link:https://youtu.be/QlEY7Alr9UI[click here to watch the video tutorial]
