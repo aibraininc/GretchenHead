@@ -457,4 +457,4 @@ link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 2+|  image::connect_cable_power.jpeg[480,360]
 |====
 
-link:https://youtu.be/QlEY7Alr9UI[click here to watch the video tutorial]
+link:https://youtu.be/ky9-Uz-5iXo[click here to watch the video tutorial]
