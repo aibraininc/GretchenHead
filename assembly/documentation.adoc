@@ -299,11 +299,11 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-2+| Go to "Cheese - Preferences" in left-upper side menu.
+2+| Click "Cheese - Preferences" in left-upper side menu.
 2+|  image::cheese_preferences.png[480,360]
 |====
 
-4.2.4 Turn left or right to set fucussing of the camera as below.
+4.2.4 Turn left or right to set the fucus of the camera as below.
 
 [cols="a,a"]
 |====
