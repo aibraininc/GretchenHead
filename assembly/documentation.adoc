@@ -285,19 +285,36 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-2+|  image::screw_camera.jpeg[480,360]
+2+|  image::plug_usb_camera.jpeg[480,360]
 |====
 
 4.2.2 Search your computer with "cheese" and execute an application "Cheese Webcam Booth".
 
 [cols="a,a"]
 |====
-2+|  image::screw_camera.jpeg[480,360]
+2+|  image::search_cheese.png[480,360]
 |====
 
 4.2.3 Check camera view is from the camera HBV-1615."
+Go to "Cheese - Preferences" in left-upper side.
 
-4.2.4 
+[cols="a,a"]
+|====
+2+|  image::cheese_preferences.png[480,360]
+|====
+
+4.2.4 Turn left or right to set fucussing of the camera as below.
+
+[cols="a,a"]
+|====
+2+|  image::focus_left_right.png[480,360]
+|====
+
+[cols="a,a"]
+|====
+| *Before* | *After*
+| image:focus_before.png[320,240]| image:focus_after.png[320,240]
+|====
 
 
 === Step 5. Finish to assemble the upper part
