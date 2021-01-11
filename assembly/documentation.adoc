@@ -296,10 +296,10 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 |====
 
 4.2.3 Check camera view is from the camera HBV-1615."
-Go to "Cheese - Preferences" in left-upper side.
 
 [cols="a,a"]
 |====
+2+| Go to "Cheese - Preferences" in left-upper side menu.
 2+|  image::cheese_preferences.png[480,360]
 |====
 
