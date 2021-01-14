@@ -73,12 +73,12 @@ The assembly of the Gretchen head is divided into 3 main parts. First, we need t
 The base of the Gretchen head contains a single motor allowing the robot to move left and right. Second, we assemble the upper part of the gretchen head.
 The upper part of the Gretchen head also contains a single motor that allows the robot to move up and down. Finally, we have to attach the board to the Gretchen head.
 
-
 [cols="a,a,a"]
 |====
-| *Base* | *Upper part*
-| image::grechen_head_base.jpg[320,240] | image::grechen_head_upper.jpg[320,240] | image::attach_board_after.jpg[320,240]
+| *Base* | *Upper part* | *Board*
+| image::grechen_head_base.JPG[320,240] | image::grechen_head_upper.jpg[320,240] | image::attach_board_after.jpg[320,240]
 |====
+
 
 
 
