@@ -1,6 +1,6 @@
 = Gretchen Head Assembly Documentation
-Doc Writer <kubisch@informatik.hu-berlin.de>
-v0.1, 2019-03-28
+Doc Writer <wallychung@aibrain.com>
+v0.1, 2021-01-14
 :imagesdir: ./images
 :toc:
 
@@ -16,17 +16,17 @@ Please share your ideas, upgrades, schematics, source-code and tricks._
 
 
 == Tool and Part List
-NOTE: Before starting the assembly. Check that you have all the tools and parts in place. We recommend to read this manual once before starting the assembly.
+NOTE   : Before starting the assembly. Check that you have all the tools and parts in place. We recommend to read this manual once before starting the assembly.
 
 WARNING: Self-manufacturing of the parts is encouraged but can not be officially supported and hence is to your own risk. If you decide to manufacture your own parts then tolerances may vary depending on the machines and methods you are using.
 
 === Recommended Tools
 You will need these tools to assemble the Gretchen Head.
 
-Should have 
+Should have
 
 * Ballhead imbus screwdriver, Allen keys
-* Phillip Screwdriver 
+* Phillip Screwdriver
 
 === Gretchen Head Assembly Kit Parts
 
@@ -37,7 +37,7 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 2+| *3D-Printed Parts*
 2+| *Electronic Parts*
 | 1  | ABGH1, Lower part | 2 | Motor XL-320
-| 1  | ABGH2, Lower part | 1 | U2D2 
+| 1  | ABGH2, Lower part | 1 | U2D2
 | 1  | ABGH3, Bearing part | 1 | U2D2 Power Hub Board
 | 1  | ABGH4, Upper part | 1 | USB cable
 | 1  | ABGH5, Upper part | 1 | Power cable
@@ -59,7 +59,7 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 | 1  | M4 x20, Upper assembly | 4  | plug for U2D2 mount
 | 1  | M4 Nut, Upper assembly | |
 | 3  | M2.5 x15, Base assembly | |
-| 20 | M2.5 x10, Upper and Base assembly, Servo and Board mount | |
+| 22 | M2.5 x10, Upper and Base assembly, Servo and Board mount | |
 |====
 
 == Assembly
@@ -69,14 +69,15 @@ Although there are many possible ways to assemble,
 we recommend the order given in the manual.
 
 === Step 0. Overview
-The assembly of the Gretchen head is divided into 2 main parts. First, we need to assemble the base of the grethen head.
-The base of the gretchen head contains a single motor allowing the robot to move left and right. Second, we assemble the upper part of the gretchen head.
-The upper part also contains a single motor that allows the robot to move up and down.
+The assembly of the Gretchen head is divided into 3 main parts. First, we need to assemble the base of the Gretchen head.
+The base of the Gretchen head contains a single motor allowing the robot to move left and right. Second, we assemble the upper part of the gretchen head.
+The upper part of the Gretchen head also contains a single motor that allows the robot to move up and down. Finally, we have to attach the board to the Gretchen head.
+
 
 [cols="a,a"]
 |====
 | *Base* | *Upper part*
-| image::grechen_head_base.jpg[320,240] | image::grechen_head_upper.jpg[320,240]
+| image::grechen_head_base.jpg[320,240] | image::grechen_head_upper.jpg[320,240] | image::attach_board_after.jpg[320,240]
 |====
 
 
@@ -91,7 +92,7 @@ The upper part also contains a single motor that allows the robot to move up and
 |====
 
 ==== Step 1.1 Attach the motor to ABGH1
-*Components* : 1x ABGH1, 1x motor, 2x M2.5x10, 1x Dynamixel cable(small-large), 1x Dynamixel cable(small-small) 
+*Components* : 1x ABGH1, 1x motor, 2x M2.5x10, 1x Dynamixel cable(small-large), 1x Dynamixel cable(small-small)
 
 [cols="a,a"]
 |====
