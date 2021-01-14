@@ -304,27 +304,12 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
-2.3.6 Change the focus of the camera. 
+2.3.6 Change the focus of the camera.
 
 [cols="a,a"]
 |====
 2+|  image::focus_left_right.png[480,360]
 |====
-
-==== Step 4.2 Camera focus setting
-
-4.2.1 Plug USB cable to your PC.
-
-
-4.2.2 Search your computer with "cheese" and execute an application "Cheese Webcam Booth".
-
-
-4.2.3 Check camera view is from the camera HBV-1615."
-
-
-4.2.4 Turn left or right to set the fucus of the camera as below.
-
-
 [cols="a,a"]
 |====
 | *Before* | *After*
@@ -332,7 +317,8 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 |====
 
 
-=== Step 5. Finish to assemble the upper part
+
+==== Step 2.4 Attach ABGH5 to ABGH4
 
 *Overview* : We attach ABGH5 to ABGH4 so that it moves up and down. The camera will be attached to ABGH5.
 
@@ -341,6 +327,8 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 2+| *Tools*: Allen keys, screw driver
 2+|  image::IMG_0883.JPG[320,240]
 |====
+
+*Instructions*
 
 ==== Step 5.1 Attach ABGH5 to ABGH4
 
@@ -352,7 +340,6 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 | image:assemble_camera_motor_before.jpg[320,240]| image:assemble_camera_motor_after.jpg[320,240]
 |====
 
-*Instructions*
 
 5.1.1 Unscrew an bolt of upper motor.
 
