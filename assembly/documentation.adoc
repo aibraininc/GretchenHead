@@ -261,8 +261,6 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 2+|  image::IMG_0883.JPG[480,360]
 |====
 
-
-2.3.1 Attach camera on ABGH5
 *Components* : ABGH5 (3d print part), Camera module HBV-1615, Camera cable, 4x M2.5x10 bolts
 
 [cols="a,a"]
@@ -273,35 +271,30 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 *Instructions*
 
-4.1.1 Plug cable to Camera module HBV-1615.
+2.3.1 Plug the camera cable to HBV-1615 camera.
 
-4.1.2 Screw four M2.5x10 bolts to mount the camera module.
+2.3.2 Screw four M2.5x10 bolts to mount the camera module.
 
 [cols="a,a"]
 |====
 2+|  image::screw_camera.jpeg[480,360]
 |====
 
-link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
-
-
-==== Step 4.2 Camera focus setting
-
-4.2.1 Plug USB cable to your PC.
+2.3.3 Connect the camera to your PC through the USB cable
 
 [cols="a,a"]
 |====
 2+|  image::plug_usb_camera.jpeg[480,360]
 |====
 
-4.2.2 Search your computer with "cheese" and execute an application "Cheese Webcam Booth".
+2.3.4 Open the "Cheese Webcam Booth" application on ubuntu
 
 [cols="a,a"]
 |====
 2+|  image::search_cheese.png[480,360]
 |====
 
-4.2.3 Check camera view is from the camera HBV-1615."
+2.3.5 Make sure that camera feed is from the HBV-1615 camera
 
 [cols="a,a"]
 |====
@@ -309,12 +302,28 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 2+|  image::cheese_preferences.png[480,360]
 |====
 
-4.2.4 Turn left or right to set the fucus of the camera as below.
+link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
+
+2.3.6 Change the focus of the camera. 
 
 [cols="a,a"]
 |====
 2+|  image::focus_left_right.png[480,360]
 |====
+
+==== Step 4.2 Camera focus setting
+
+4.2.1 Plug USB cable to your PC.
+
+
+4.2.2 Search your computer with "cheese" and execute an application "Cheese Webcam Booth".
+
+
+4.2.3 Check camera view is from the camera HBV-1615."
+
+
+4.2.4 Turn left or right to set the fucus of the camera as below.
+
 
 [cols="a,a"]
 |====
