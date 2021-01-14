@@ -74,7 +74,7 @@ The base of the Gretchen head contains a single motor allowing the robot to move
 The upper part of the Gretchen head also contains a single motor that allows the robot to move up and down. Finally, we have to attach the board to the Gretchen head.
 
 
-[cols="a,a"]
+[cols="a,a,a"]
 |====
 | *Base* | *Upper part*
 | image::grechen_head_base.jpg[320,240] | image::grechen_head_upper.jpg[320,240] | image::attach_board_after.jpg[320,240]
