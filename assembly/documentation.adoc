@@ -82,7 +82,7 @@ The upper part of the Gretchen head also contains a single motor that allows the
 
 
 
-=== Step 1. Assemble the base
+=== Part 1. Assemble the base
 *Overview*: We will be assembling the base of the Gretchen head. We will be attaching a motor and a U2D2 board to the base.
 
 [cols="a,a"]
@@ -156,7 +156,7 @@ link:https://youtu.be/j0PZXP6PQcQ[click here to watch the video tutorial]
 
 
 
-=== Step 2. Attach the upper part of the Gretchen Head to base
+=== Part 2. Attach the upper part of the Gretchen Head to base
 
 Overview: In Step 1, we finished assembling the base. We can start attaching the upper part of the Gretchen head to the assembled base.
 ==== Step 2.1 Attach ABGH3 and ABGH4 to the assembled base
@@ -321,6 +321,7 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 ==== Step 2.4 Attach ABGH5 to ABGH4
 
 *Overview* : We attach ABGH5 to ABGH4 so that it moves up and down. The camera will be attached to ABGH5.
+*Components* : assembled base, ABGH5 (3d print part), M4 bolt, M4 nut, 3x M2 bolts, 2x M2 nuts
 
 [cols="a,a"]
 |====
@@ -328,11 +329,6 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 2+|  image::IMG_0883.JPG[320,240]
 |====
 
-*Instructions*
-
-==== Step 5.1 Attach ABGH5 to ABGH4
-
-*Components* : assembled base, ABGH5 (3d print part), M4 bolt, M4 nut, 3x M2 bolts, 2x M2 nuts
 
 [cols="a,a"]
 |====
@@ -340,8 +336,9 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 | image:assemble_camera_motor_before.jpg[320,240]| image:assemble_camera_motor_after.jpg[320,240]
 |====
 
+*Instructions*
 
-5.1.1 Unscrew an bolt of upper motor.
+2.4.1 Unscrew the bolt of upper motor.
 
 [cols="a,a"]
 |====
@@ -350,7 +347,10 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 | | make sure direction is right.
 |====
 
-5.1.2 Screw M2.5x8 to attach the motor to ABGH4.
+2.4.2 Check that the direction of the motor is correct.
+
+
+2.4.3 Attach the AGBH4 3d printed part to the motor and then tighten it with the M2.5x8 screw.
 
 [cols="a,a"]
 |====
@@ -358,7 +358,7 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 |====
 
 
-5.1.3 Use M4x20 and M4 nut to combine ABGH5 to ABGH4.
+2.4.4 Use M4x20 and M4 nut to combine ABGH5 to ABGH4.
 
 [cols="a,a"]
 |====
@@ -407,7 +407,7 @@ link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 
 
 
-=== Step 6. Attach U2D2 board
+=== Part 3. Attach U2D2 board
 
 *Overview* : We are going to assemble U2D2 board.
 
