@@ -344,9 +344,11 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-| *Before* | *After*
-| image:unscrew_upper_motor.jpg[320,240]| image:make_sure_direction_upper.jpg[320,200]
-| | make sure direction is right.
+| image::unscrew_upper_motor.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+|====
+[cols="a,a"]
+|====
+| image::make_sure_direction_upper.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 2.4.2 Check that the direction of the motor is correct.
@@ -356,7 +358,7 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-2+|  image::combine_abgh5_motor.jpg[480,360]
+| image::combine_abgh5_motor.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 
@@ -364,7 +366,7 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-2+|  image::combine_abgh4_abgh5.jpeg[480,360]
+| image::combine_abgh4_abgh5.jpeg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 link:https://youtu.be/jjimqfvF-sA[click here to watch the video tutorial]
@@ -393,16 +395,17 @@ link:https://youtu.be/jjimqfvF-sA[click here to watch the video tutorial]
 
 2.5.1 Use two M2.5x8 bolts to attach the upper part of the ABGH4 to the robot.
 
+
 [cols="a,a"]
 |====
-2+|  image::screw_upper_side.jpg[480,360]
+| image::screw_upper_side.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 2.5.1 Use two M2.5x8 bolts to attach the lower part of the ABGH4 to the robot.
 
 [cols="a,a"]
 |====
-2+|  image::screw_lower_side.jpg[480,360]
+| image::screw_lower_side.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
@@ -430,13 +433,20 @@ link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 |====
 
 
+
+
 *Instructions*
 
 3.1.1 Push four sockets to the U2D2 Power Hub Board like as below.
 
+[cols="a,a"]
 |====
-| *Front* | *Side*
-| image:board_front.jpeg[320,240]| image:board_side.jpeg[320,240]
+| image::board_front.jpeg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+|====
+
+[cols="a,a"]
+|====
+| image::board_side.jpeg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 3.1.2 Attach U2D2 to the U2D2 Power Hub Board through the plugs.
@@ -459,42 +469,44 @@ link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-2+|  image::attach_board_screw.jpg[480,360]
+| image::attach_board_screw.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
+
 
 3.2.2 Use a Dynamixel cable(large-large) to connect the U2D2 to the U2D2 Power Hub Board.
 
 [cols="a,a"]
 |====
-2+|  image::connect_cable_u2d2.jpg[480,360]
+| image::connect_cable_u2d2.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
+
 
 3.2.3 Use a Dynamixel cable(small-large) to connect the upper motor to the U2D2 Power Hub Board.
 
 [cols="a,a"]
 |====
-2+|  image::connect_cable_upper.jpg[480,360]
+| image::connect_cable_upper.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 3.2.4 Use a Dynamixel cable to connect the motor of base to U2D2 Power Hub Board.
 
 [cols="a,a"]
 |====
-2+|  image::connect_cable_base.jpg[480,360]
+| image::connect_cable_base.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 3.2.5 Connect the USB cable to the U2D2.
 
 [cols="a,a"]
 |====
-2+|  image::connect_cable_usb.jpg[480,360]
+| image::connect_cable_usb.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 3.2.6 Plug a Power cable to U2D2 Power Hub Board.
 
 [cols="a,a"]
 |====
-2+|  image::connect_cable_power.jpeg[480,360]
+| image::connect_cable_power.jpeg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 link:https://youtu.be/ky9-Uz-5iXo[click here to watch the video tutorial]
