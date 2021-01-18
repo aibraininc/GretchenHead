@@ -72,6 +72,7 @@ we recommend the order given in the manual.
 The assembly of the Gretchen head is divided into 3 main parts. First, we need to assemble the base of the Gretchen head.
 The base of the Gretchen head contains a single motor allowing the robot to move left and right. Second, add on to the assembled base by assembling the upper part of the Gretchen head.
 The upper part of the Gretchen head also contains a single motor that allows the robot to move up and down. Finally, we have to attach the board that controls the motors to the Gretchen head.
+*When reading the instructions, feel free to enlarge the images.*
 
 [cols="a,a,a"]
 |====
@@ -182,11 +183,12 @@ Overview: In Step 1, we finished assembling the base. We can start attaching the
 * Hold the motor so that the wheel doesn't move. We don't want the position of the motor to change.
 * The direction of the motor is indicated with a small circle in the center.
 
+
 [cols="a,a"]
 |====
-| *Before* | *After*
-| image:unscrew_bolt_motor.jpg[320,240]| image:make_sure_direction.jpg[320,250]
-| | make sure direction is up.
+| image::unscrew_bolt_motor.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
+|====
+| image::make_sure_direction.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 
