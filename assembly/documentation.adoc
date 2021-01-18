@@ -106,7 +106,7 @@ The upper part of the Gretchen head also contains a single motor that allows the
 
 [cols="a,a"]
 |====
-| image::base_motor_cable_connection.jpg[160,120] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
+| image::base_motor_cable_connection.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 1.1.2 Attach the motor into the ABGH1 3D printed part
