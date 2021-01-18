@@ -72,7 +72,7 @@ we recommend the order given in the manual.
 The assembly of the Gretchen head is divided into 3 main parts. First, we need to assemble the base of the Gretchen head.
 The base of the Gretchen head contains a single motor allowing the robot to move left and right. Second, add on to the assembled base by assembling the upper part of the Gretchen head.
 The upper part of the Gretchen head also contains a single motor that allows the robot to move up and down. Finally, we have to attach the board that controls the motors to the Gretchen head.
-*When reading the instructions, feel free to enlarge the images.*
+*When reading the instructions, you should enlarge the images.*
 
 [cols="a,a,a"]
 |====
@@ -185,12 +185,6 @@ Overview: In Step 1, we finished assembling the base. We can start attaching the
 
 [cols="a,a"]
 |====
-| *Before* | *After*
-| image:unscrew_bolt_motor.jpg[320,240]| image:make_sure_direction.jpg[320,250]
-| | make sure direction is up.
-|====
-[cols="a,a"]
-|====
 | image::unscrew_bolt_motor.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
@@ -204,14 +198,14 @@ Overview: In Step 1, we finished assembling the base. We can start attaching the
 
 [cols="a,a"]
 |====
-2+|  image::attach_abgh3.jpg[480,360]
+| image::attach_abgh3.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 2.1. Combine ABGH4 on ABGH3 with 4x M2.5x10 bolts.
 
 [cols="a,a"]
 |====
-2+|  image::screw_abgh3_abgh4.jpg[480,360]
+| image::screw_abgh3_abgh4.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 
@@ -241,22 +235,22 @@ link:https://youtu.be/qm7Bxvpi1YQ[click here to watch the video tutorial]
 *Instructions*
 
 2.2.1 Plug the dynamixel cable (small-small) between two motors like as below.
+
 [cols="a,a"]
 |====
-2+|  image::connection_beween_motors.jpg[480,360]
+| image::connection_beween_motors.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 2.2.2 Insert the motor on ABGH4
 [cols="a,a"]
 |====
-2+|  image::connection_beween_motors.jpg[480,360]
+| image::connection_beween_motors.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 2.2.3 Screw the motor onto ABGH4 with two M2.5x10 bolts  .
-
 [cols="a,a"]
 |====
-2+|  image::screw_upper_motor.jpg[480,360]
+| image::screw_upper_motor.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
@@ -287,44 +281,43 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-2+|  image::screw_camera.jpeg[480,360]
+| image::screw_camera.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
-
 2.3.3 Connect the camera to your PC through the USB cable
 
 [cols="a,a"]
 |====
-2+|  image::plug_usb_camera.jpeg[480,360]
+| image::plug_usb_camera.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 2.3.4 Open the "Cheese Webcam Booth" application on ubuntu
-
 [cols="a,a"]
 |====
-2+|  image::search_cheese.png[480,360]
+| image::search_cheese.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 2.3.5 Make sure that camera feed is from the HBV-1615 camera
 
 [cols="a,a"]
 |====
-2+| Click "Cheese - Preferences" in left-upper side menu.
-2+|  image::cheese_preferences.png[480,360]
+| image::cheese_preferences.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
-
 link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 2.3.6 Change the focus of the camera.
+[cols="a,a"]
+|====
+| image::focus_left_right.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+|====
+[cols="a,a"]
+|====
+| image::focus_before.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+|====
+[cols="a,a"]
+|====
+| image::focus_after.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+|====
 
-[cols="a,a"]
-|====
-2+|  image::focus_left_right.png[480,360]
-|====
-[cols="a,a"]
-|====
-| *Before* | *After*
-| image:focus_before.png[320,240]| image:focus_after.png[320,240]
-|====
 
 
 
