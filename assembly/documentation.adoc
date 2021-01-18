@@ -183,10 +183,18 @@ Overview: In Step 1, we finished assembling the base. We can start attaching the
 * Hold the motor so that the wheel doesn't move. We don't want the position of the motor to change.
 * The direction of the motor is indicated with a small circle in the center.
 
-
+[cols="a,a"]
+|====
+| *Before* | *After*
+| image:unscrew_bolt_motor.jpg[320,240]| image:make_sure_direction.jpg[320,250]
+| | make sure direction is up.
+|====
 [cols="a,a"]
 |====
 | image::unscrew_bolt_motor.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
+|====
+
+[cols="a,a"]
 |====
 | image::make_sure_direction.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
