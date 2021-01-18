@@ -281,47 +281,42 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-| image::screw_camera.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
-|====
-
-[cols="a,a"]
-|====
-| image::screw_camera.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
+| image::screw_camera.jpeg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 2.3.3 Connect the camera to your PC through the USB cable
 
 [cols="a,a"]
 |====
-| image::plug_usb_camera.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
+| image::plug_usb_camera.jpeg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 2.3.4 Open the "Cheese Webcam Booth" application on ubuntu
 [cols="a,a"]
 |====
-| image::search_cheese.jpg[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
+| image::search_cheese.png[170,140] | If the hole is too big, you can use a longer bolt (M2 x15) and nut to hold them in place.
 |====
 
 2.3.5 Make sure that camera feed is from the HBV-1615 camera
 
 [cols="a,a"]
 |====
-| image::cheese_preferences.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+| image::cheese_preferences.png[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 2.3.6 Change the focus of the camera.
 [cols="a,a"]
 |====
-| image::focus_left_right.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+| image::focus_left_right.png[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 [cols="a,a"]
 |====
-| image::focus_before.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+| image::focus_before.png[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 [cols="a,a"]
 |====
-| image::focus_after.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+| image::focus_after.png[170,140] | Click "Cheese - Preferences" in left-upper side menu.
 |====
 
 
