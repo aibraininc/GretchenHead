@@ -209,7 +209,7 @@ link:https://youtu.be/qm7Bxvpi1YQ[click here to watch the video tutorial]
 
 
 
-### Step 2.2. Attach the motor to the upper part of the Gretchen head
+#### Step 2.2. Attach the motor to the upper part of the Gretchen head
 
 *Overview* : We attach a motor to the upper part of the Gretchen head.
 
