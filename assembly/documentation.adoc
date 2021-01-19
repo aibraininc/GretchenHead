@@ -379,7 +379,7 @@ link:https://youtu.be/jjimqfvF-sA[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-2+| *Tools*: Allen key, screw driver
+2+| *Tools*: Allen key
 2+|  image::tools.jpg[320,240]
 |====
 
