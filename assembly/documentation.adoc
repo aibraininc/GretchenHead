@@ -50,7 +50,7 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 |====
 
 
-image:bolt_nut_plug.png[640,480,width=150%,scaledwidth=150%]
+image:bolt_nut_plug.jpg[640,480,width=150%,scaledwidth=150%]
 
 [cols="1,1,1,1"]
 |====
