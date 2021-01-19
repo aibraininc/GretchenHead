@@ -262,7 +262,7 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-2+| *Tools*: Allen keys, screw driver
+2+| *Tools*: Allen key
 2+|  image::tools.jpg[320,240]
 |====
 
