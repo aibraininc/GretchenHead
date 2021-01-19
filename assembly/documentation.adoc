@@ -166,7 +166,7 @@ Overview: In Step 1, we finished assembling the base. We can start attaching the
 [cols="a,a"]
 |====
 2+| *Tools*: Allen key, screw driver
-2+|  image::image::tools.jpg[320,240]
+2+|  image::tools.jpg[320,240]
 |====
 
 *Components* : assembled base, 3d print parts (ABGH3, ABGH4), x-horn, 5x M2.5x10 bolts
