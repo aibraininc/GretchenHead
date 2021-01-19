@@ -78,7 +78,7 @@ The upper part of the Gretchen head also contains a single motor that allows the
 [cols="a,a,a"]
 |====
 | *Base* | *Upper part* | *Board*
-| image::grechen_head_base.jpg[320,240] | image::grechen_head_upper.jpg[320,240] | image::attach_board_after.jpg[320,240]
+| image::grechen_head_base.jpg[320,240] | image::grechen_head_upper.jpg[320,240] | image::grechen_head_board.jpg[320,240]
 |====
 
 
@@ -89,8 +89,8 @@ The upper part of the Gretchen head also contains a single motor that allows the
 
 [cols="a,a"]
 |====
-2+| *Tools*:  pinset, allen key
-2+|  image::tools.jpg[480,360]
+2+| *Tools*: allen key
+2+|  image::tools.jpg[320,240]
 |====
 
 === Step 1.1 Attach the motor to ABGH1
