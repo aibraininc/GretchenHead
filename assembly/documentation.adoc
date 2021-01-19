@@ -50,6 +50,7 @@ image:before_assembly_labeling.png[640,480,width=150%,scaledwidth=150%]
 |====
 
 
+image:bolt_nut_plug.png[640,480,width=150%,scaledwidth=150%]
 
 [cols="1,1,1,1"]
 |====
@@ -89,7 +90,7 @@ The upper part of the Gretchen head also contains a single motor that allows the
 [cols="a,a"]
 |====
 2+| *Tools*:  pinset, allen key
-2+|  image::IMG_0868.jpg[480,360]
+2+|  image::tools.jpg[480,360]
 |====
 
 === Step 1.1 Attach the motor to ABGH1
