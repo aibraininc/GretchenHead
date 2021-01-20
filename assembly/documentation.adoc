@@ -23,6 +23,8 @@ WARNING: Self-manufacturing of the parts is encouraged but can not be officially
 === Recommended Tools
 You will need these tools to assemble the Gretchen Head.
 
+image:bolt_nut_plug.png[640,480,width=150%,scaledwidth=150%]
+
 Should have
 
 * Ballhead imbus screwdriver, Allen keys
@@ -73,7 +75,8 @@ we recommend the order given in the manual.
 The assembly of the Gretchen head is divided into 3 main parts. First, we need to assemble the base of the Gretchen head.
 The base of the Gretchen head contains a single motor allowing the robot to move left and right. Second, add on to the assembled base by assembling the upper part of the Gretchen head.
 The upper part of the Gretchen head also contains a single motor that allows the robot to move up and down. Finally, we have to attach the board that controls the motors to the Gretchen head.
-*When reading the instructions, you should enlarge the images.*
+*When reading the instructions, you should enlarge the images.* You would want to left click on the image. A new tab will open up with an oversized image. You can right click on the over sized image and click "View Image."
+
 
 [cols="a,a,a"]
 |====
@@ -161,13 +164,10 @@ link:https://youtu.be/j0PZXP6PQcQ[click here to watch the video tutorial]
 == Part 2. Attach the upper part of the Gretchen Head to base
 
 Overview: In Step 1, we finished assembling the base. We can start attaching the upper part of the Gretchen head to the assembled base.
+
 === Step 2.1 Attach ABGH3 and ABGH4 to the assembled base
 
-[cols="a,a"]
-|====
-2+| *Tools*: Allen key, screw driver
-2+|  image::tools.jpg[320,240]
-|====
+*Tools*: Allen key, screw driver
 
 *Components* : assembled base, 3d print parts (ABGH3, ABGH4), x-horn, 5x M2.5x10 bolts
 
@@ -218,12 +218,7 @@ link:https://youtu.be/qm7Bxvpi1YQ[click here to watch the video tutorial]
 
 *Overview* : We attach a motor to the upper part of the Gretchen head.
 
-[cols="a,a"]
-|====
-2+| *Tools*: Allen key
-2+|  image::tools.jpg[320,240]
-|====
-
+*Tools*: Allen key
 
 *Components* : assembled base, motor, 2x M2.5x10 bolt
 
@@ -260,11 +255,7 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 === Step 2.3. Attach the camera onto ABGH5 and configure the focus of the camera
 
-[cols="a,a"]
-|====
-2+| *Tools*: Allen key
-2+|  image::tools.jpg[320,240]
-|====
+*Tools*: Allen key
 
 *Components* : ABGH5 (3d print part), Camera module HBV-1615, Camera cable, 4x M2.5x10 bolts
 
@@ -324,7 +315,11 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 === Step 2.4 Attach ABGH5 to ABGH4
 
 *Overview* : We attach ABGH5 to ABGH4 so that it moves up and down. The camera will be attached to ABGH5.
+
+*Tools*: Allen key, screw driver
+
 *Components* : assembled base, ABGH5 (3d print part), M4 bolt, M4 nut, 3x M2 bolts, 2x M2 nuts
+
 
 [cols="a,a"]
 |====
@@ -375,6 +370,8 @@ link:https://youtu.be/jjimqfvF-sA[click here to watch the video tutorial]
 
 === Step 2.5 Cover the robot with ABGH4
 
+*Tools*: Allen key
+
 *Overview* : We combin cover to ABGH4 for camera.
 
 [cols="a,a"]
@@ -417,11 +414,7 @@ link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 
 *Overview* : We are going to assemble U2D2 board.
 
-[cols="a,a"]
-|====
-2+| *Tools*: Allen key
-2+|  image::tools.jpg[320,240]
-|====
+*Tools*: Allen key
 
 
 === Step 3.1 Attach the U2D2 board to the U2D2 Power Hub Board
