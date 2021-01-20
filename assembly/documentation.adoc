@@ -23,7 +23,7 @@ WARNING: Self-manufacturing of the parts is encouraged but can not be officially
 === Recommended Tools
 You will need these tools to assemble the Gretchen Head.
 
-image:tools.png[640,480,width=150%,scaledwidth=150%]
+image:tools.jpg[640,480,width=150%,scaledwidth=150%]
 
 Should have
 
