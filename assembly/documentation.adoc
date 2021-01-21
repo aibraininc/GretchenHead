@@ -432,11 +432,11 @@ link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
 
 *Instructions*
 
-3.1.1 Push four sockets to the U2D2 Power Hub Board like as below.
+3.1.1 Push four sockets onto the U2D2 Power Hub Board like below.
 
 [cols="a,a"]
 |====
-| image::board_front.jpeg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+| image::board_front.jpeg[170,140] | Make sure you use the right holes.
 |====
 
 [cols="a,a"]
