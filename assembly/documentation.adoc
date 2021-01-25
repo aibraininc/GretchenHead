@@ -250,7 +250,7 @@ link:https://youtu.be/qm7Bxvpi1YQ[click here to watch the video tutorial]
 2.2.2 Insert the motor onto ABGH4
 
 |====
-| image::abc.jpg[170,140] | The motor should fit tight.
+| image::tools.jpg[170,140] | The motor should fit tight.
 |====
 
 
