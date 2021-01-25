@@ -258,6 +258,13 @@ link:https://youtu.be/qm7Bxvpi1YQ[click here to watch the video tutorial]
 | image::motor_placed.png[170,140] | The motor should fit tight.
 |====
 
+
+[cols="a,a"]
+|====
+| image::plug_usb_camera.jpeg[170,140] | .
+|====
+
+
 2.2.3 Screw the motor onto ABGH4 with two M2.5x8 bolts  .
 [cols="a,a"]
 |====
