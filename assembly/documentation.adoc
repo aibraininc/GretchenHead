@@ -249,19 +249,9 @@ link:https://youtu.be/qm7Bxvpi1YQ[click here to watch the video tutorial]
 
 2.2.2 Insert the motor onto ABGH4
 
-|====
-| image::tools.jpg[170,140] | The motor should fit tight.
-|====
-
-
-|====
-| image::motor_placed.png[170,140] | The motor should fit tight.
-|====
-
-
 [cols="a,a"]
 |====
-| image::plug_usb_camera.jpeg[170,140] | .
+| image::motor_placed.png[170,140] | The motor should fit tight.
 |====
 
 
