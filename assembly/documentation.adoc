@@ -253,6 +253,11 @@ link:https://youtu.be/qm7Bxvpi1YQ[click here to watch the video tutorial]
 | image::motorplaced.png[170,140] | The motor should fit tight.
 |====
 
+
+|====
+| image::motorplaced.png[170,140] | The motor should fit tight.
+|====
+
 2.2.3 Screw the motor onto ABGH4 with two M2.5x8 bolts  .
 [cols="a,a"]
 |====
