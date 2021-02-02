@@ -288,7 +288,7 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 | image::screw_camera.jpeg[170,140] | You have to apply a bit of pressure.
 |====
 
-*For people using the camera different from above refer to picture/instructions when screwing on the camera below*
+*For people using a camera different from above refer to picture/instructions when screwing on the camera below*
 
 [cols="a,a"]
 |====
@@ -307,7 +307,7 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-| image::camera_4.png[170,140] | Screw the remaining M2.5x10 bolt. 
+| image::camera_4.png[170,140] | Screw the remaining M2.5x10 bolt.
 |====
 
 
