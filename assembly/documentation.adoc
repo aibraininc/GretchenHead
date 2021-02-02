@@ -288,6 +288,30 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 | image::screw_camera.jpeg[170,140] | You have to apply a bit of pressure.
 |====
 
+*For people using the camera different from above refer below*
+
+[cols="a,a"]
+|====
+| image::camera_1.png[170,140] | You have to apply a bit of pressure.
+|====
+
+[cols="a,a"]
+|====
+| image::camera_2.png[170,140] | You have to apply a bit of pressure.
+|====
+
+[cols="a,a"]
+|====
+| image::camera_3.png[170,140] | You have to apply a bit of pressure.
+|====
+
+[cols="a,a"]
+|====
+| image::camera_4.png[170,140] | You have to apply a bit of pressure.
+|====
+
+
+
 2.3.3 We're going to adjust the focus. Currently, the focus is not set so the images will be blurry. Connect the camera to your PC through the USB cable
 
 [cols="a,a"]
