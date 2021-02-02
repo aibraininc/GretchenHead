@@ -288,26 +288,26 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 | image::screw_camera.jpeg[170,140] | You have to apply a bit of pressure.
 |====
 
-*For people using the camera different from above refer below*
+*For people using the camera different from above refer to picture/instructions when screwing on the camera below*
 
 [cols="a,a"]
 |====
-| image::camera_1.png[170,140] | You have to apply a bit of pressure.
-|====
-
-[cols="a,a"]
-|====
-| image::camera_2.png[170,140] | You have to apply a bit of pressure.
+| image::camera_1.png[170,140] | First, screw two M2.5x10 bolts on top. Don't screw all the way down.
 |====
 
 [cols="a,a"]
 |====
-| image::camera_3.png[170,140] | You have to apply a bit of pressure.
+| image::camera_2.png[170,140] | Insert the camera and push the camera towards the bolts gently.
 |====
 
 [cols="a,a"]
 |====
-| image::camera_4.png[170,140] | You have to apply a bit of pressure.
+| image::camera_3.png[170,140] | Insert the M2.5x10 bolt. It's a very tight fit. As you screw down the bolt, pressure will be created to hold down the camera in place.
+|====
+
+[cols="a,a"]
+|====
+| image::camera_4.png[170,140] | Screw the remaining M2.5x10 bolt. 
 |====
 
 
