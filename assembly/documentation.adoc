@@ -435,7 +435,7 @@ link:https://youtu.be/jjimqfvF-sA[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-| image::screw_lower_side.jpg[170,140] | Can you move the motor for screwing the bolt.
+| image::screw_lower_side.jpg[170,140] | Feel free to move the motor to find a better position for screwing the bolt.
 |====
 
 link:https://youtu.be/CNnWzRFLhGA[click here to watch the video tutorial]
