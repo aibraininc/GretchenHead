@@ -48,7 +48,7 @@ image:bolt_nut_plug.png[640,480,width=150%,scaledwidth=150%]
 | 1  | M4 x20, Upper assembly | 4  | plug for U2D2 mount
 | 1  | M4 Nut, Upper assembly | |
 | 3  | M2.5 x15, Base assembly | |
-| 22 | M2.5 x10, Upper and Base assembly, Servo and Board mount | |
+| 22 | M2.5 x8, Upper and Base assembly, Servo and Board mount | |
 |====
 
 == Tool and Part List
@@ -178,7 +178,7 @@ link:https://youtu.be/j0PZXP6PQcQ[click here to watch the video tutorial]
 
 *Tools*: Allen key, screw driver
 
-*Components* : assembled base, 3d print parts (ABGH3, ABGH4), 5x M2.5x10 bolts
+*Components* : assembled base, 3d print parts (ABGH3, ABGH4), 5x M2.5x8 bolts
 
 [cols="a,a"]
 |====
@@ -211,7 +211,7 @@ link:https://youtu.be/j0PZXP6PQcQ[click here to watch the video tutorial]
 | image::new_baseconnector.png[170,140] | Make sure the four smaller circles of ABGH3 fit the four holes of the motor.
 |====
 
-2.1. Combine ABGH4 on ABGH3 with 4x M2.5x10 bolts.
+2.1. Combine ABGH4 on ABGH3 with 4x M2.5x8 bolts.
 
 [cols="a,a"]
 |====
@@ -292,7 +292,7 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-| image::camera_1.png[170,140] | First, screw two M2.5x10 bolts on top. Don't screw all the way down.
+| image::camera_1.png[170,140] | First, screw two M2.5x8 bolts on top. Don't screw all the way down.
 |====
 
 [cols="a,a"]
@@ -302,12 +302,12 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-| image::camera_3.png[170,140] | Insert the M2.5x10 bolt. It's a very tight fit. As you screw down the bolt, pressure will be created to hold down the camera in place.
+| image::camera_3.png[170,140] | Insert the M2.5x8 bolt. It's a very tight fit. As you screw down the bolt, pressure will be created to hold down the camera in place.
 |====
 
 [cols="a,a"]
 |====
-| image::camera_4.png[170,140] | Screw the remaining M2.5x10 bolt.
+| image::camera_4.png[170,140] | Screw the remaining M2.5x8 bolt.
 |====
 
 
@@ -394,7 +394,7 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-| image::combine_abgh4_abgh5.jpeg[170,140] | You don't have to .
+| image::combine_abgh4_abgh5.jpeg[170,140] | There is a chance that the M4 screw will fall off when you use the robot too much. Don't worry. Even without the M4 screw, the robot works well.
 |====
 
 link:https://youtu.be/jjimqfvF-sA[click here to watch the video tutorial]
