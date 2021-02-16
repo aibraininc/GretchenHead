@@ -404,7 +404,7 @@ link:https://youtu.be/jjimqfvF-sA[click here to watch the video tutorial]
 
 *Tools*: Allen key
 
-*Overview* : We combin cover to ABGH4 for camera.
+*Overview* : We combine the cover to the ABGH4 for camera.
 
 [cols="a,a"]
 |====
