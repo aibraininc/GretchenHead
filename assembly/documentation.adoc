@@ -330,7 +330,7 @@ link:https://youtu.be/6t4np2M2xqw[click here to watch the video tutorial]
 | image::search_cheese.png[170,140] | You can find it by searching for "Cheese Webcam Booth".
 |====
 
-사진 필요
+
 
 2.3.5 Make sure that camera feed is from the HBV-1615 camera.
 
