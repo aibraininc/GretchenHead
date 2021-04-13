@@ -386,7 +386,7 @@ link:https://youtu.be/rsGv0pzaAgM[click here to watch the video tutorial]
 
 [cols="a,a"]
 |====
-| image::combine_abgh5_motor.jpg[170,140] | Click "Cheese - Preferences" in left-upper side menu.
+| image::combine_abgh5_motor.jpg[170,140] | Screwing the parts may be difficult. You can also use a long nose plier if you have one at home and following link:https://youtu.be/aQ3QPFF5Mko [this video].
 |====
 
 
