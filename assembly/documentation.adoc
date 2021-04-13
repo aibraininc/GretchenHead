@@ -59,14 +59,21 @@ WARNING: Self-manufacturing of the parts is encouraged but can not be officially
 WARNING: Safety is utmost important, make sure you don't hurt yourself when using the tools. Wear safety equipments.
 
 === Recommended Tools
-You will need these tools to assemble the Gretchen Head.
+You will need these tools to assemble the Gretchen Head. *We only supply you with the very basic tools. If you want to have a more comfortable experience building Gretchen, you need to purchase them on your own.*
 
-image:tools.jpg[640,480,width=150%,scaledwidth=70%]
 
-Should have
+Tools you should have
 
 * Ballhead imbus screwdriver, Allen keys
 * Phillip Screwdriver
+
+image:tools.jpg[640,480,width=150%,scaledwidth=70%]
+
+Optional tools you should have
+
+* Long nose plier
+
+image:image_50365441.JPG[640,480,width=150%,scaledwidth=70%]
 
 
 == Assembly
